@@ -30,7 +30,7 @@ To generate the above resources, you must execute the following terraform script
 <a name="log">
 
 ## Steps to execute Terraform scripts for Log Setup
-To access the terraform script for Log Setup [Click here](ADDDDDDDDDDDDDD).
+To access the terraform script for Log Setup [Click here]([ADDDDDDDDDDDDDD](https://github.com/v-anjohari/Cloud-Run-logs/blob/main/GCPCloudRunLogsSetup/GCPCloudRunLogsSetup.tf)).
 - Launch the cloud shell in Google Cloud Console.
 - Execute the below mentioned commands.
 - create a directory
